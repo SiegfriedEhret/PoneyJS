@@ -9,24 +9,31 @@ This is an alpha release of the library. Thus, we need you too improve it and to
 ## API
 
 * Map
+
 `PoneyJS.walkThroughRainbows(array, function (value) { /* Do whatever you want with your value here */})`
 
 * Filter
+
 `PoneyJS.keepTheRainAway(array, function (value) { /* Tell the poney if the value must survive */ })`
 
 * Get the first value of results from a filter
+
 `PoneyJS.getAUnicorn(array, function (value) { /* Tell the poney if the value must survive. There will remain only one */ })`
 
 * Reduce
+
 `PoneyJS.makeALittlePoney(array, function (acc, value) { /* Do whatever you want with your ponies */}, initial)`
 
 * console.log
+
 `PoneyJS.fromYourPoney(message)`
 
 * Check if a value is truthy or falsy
+
 `PoneyJS.areUnicornsReal(value)`
 
 * Throw an error
+
 `PoneyJS.messageFromSatan(error)`
 
 
