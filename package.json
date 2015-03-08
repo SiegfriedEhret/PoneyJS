@@ -1,0 +1,26 @@
+{
+  "name": "PoneyJS",
+  "version": "0.0.1",
+  "description": "The most powerful functional library of JavaScript. Featuring ponies",
+  "main": "PoneyJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThomasCrvsr/PoneyJS"
+  },
+  "keywords": [
+    "functional",
+    "poney",
+    "ponies",
+    "rainbows",
+    "unicorns"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasCrvsr/PoneyJS/issues"
+  },
+  "homepage": "https://github.com/ThomasCrvsr/PoneyJS"
+}
