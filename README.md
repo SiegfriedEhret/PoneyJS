@@ -20,6 +20,7 @@ var Poney = require('poney.js');
 var mapResult = Poney.walkThroughRainbows(['This', 'is', 'amazing'], function (x) { console.log(x); });
 
 var apocalypse = Poney.keepTheArainAway([1, 2, 3, 10], function (x) { return x > 8; });
+```
 
 ### For front-end apps
 
