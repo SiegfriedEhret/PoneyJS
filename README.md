@@ -4,7 +4,35 @@
 
 PoneyJS is the only functionnal library you'll need for your JavaScript application. With an API designed by the elders of PoneyWorld, you will be stuned by the power it will give to your code.
 
-This is an alpha release of the library. Thus, we need you too improve it and to make it the most powerful functional library the world has ever seen.
+This is an alpha release of the library. Thus, we need you to improve it and to make it the most powerful functional library the world has ever seen.
+
+## How to get started
+
+### For NodeJS
+
+Invoke the Gods of the NodePackagesMountain with `npm install poney.js`
+
+And then power up your NodeJS code :
+
+```
+var Poney = require('poney.js');
+
+var mapResult = Poney.walkThroughRainbows(['This', 'is', 'amazing'], function (x) { console.log(x); });
+
+var apocalypse = Poney.keepTheArainAway([1, 2, 3, 10], function (x) { return x > 8; });
+
+### For front-end apps
+
+For the moment, PoneyJS is only available on NPM. It will be available on Bower soon. After dealing with NPM, you have to import the libary in your HTML :
+
+```
+<script src="PATH_TO_THE_LIB/PoneyJS.js"></script>
+```
+
+And then, all the functionalities are available in the variable `PoneyJS`.
+
+And voilà, you're ready to build apps with a level of awesomeness unknown until now.
+
 
 ## API
 

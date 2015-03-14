@@ -1,5 +1,5 @@
 {
-  "name": "PoneyJS",
+  "name": "poney.js",
   "version": "0.0.1",
   "description": "The most powerful functional library of JavaScript. Featuring ponies",
   "main": "PoneyJS.js",
@@ -17,7 +17,7 @@
     "rainbows",
     "unicorns"
   ],
-  "author": "",
+  "author": "thomasc_",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ThomasCrvsr/PoneyJS/issues"
